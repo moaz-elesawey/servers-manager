@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(236, 236, 238);
+}
+
+.navbar-brand{
+  font-weight: 500;
+}
+
+.ha-center{
+  text-align: center;
+}
+
+#trash-bin{
+  color: rgb(245, 38, 38);
+}
+
+#ping{
+  color: rgb(59, 117, 224);
+}
+#header-title{
+  font-weight: 600;
+}
+.status-down{
+  color: gray;
+}
+
+.status-up{
+  color: rgb(22, 22, 24);
+}
+
+.pr-1{
+  margin-right: .7rem;
+}
+
+th, td{
+  white-space: nowrap;
+}
+
+.w-100{
+  width: 100%;
+}
